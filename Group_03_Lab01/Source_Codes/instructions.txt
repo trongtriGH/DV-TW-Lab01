@@ -1,0 +1,6 @@
+HƯỚNG DẪN CHẠY CODE
+B1: Sử dụng link Google Drive trong thư mục Datasets để tải 2 file:
+- US_youtube_trending_data.csv
+- US_category_id.json
+B2: Bỏ 2 file phía trên vào thư mục input
+B2: Mở file DV_TW_Lab01.ipynb, chọn Restart -> Run All
